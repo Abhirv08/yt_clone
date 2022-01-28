@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Buzzle_Abhishek_Kumar/static/css/main.14582f22.css",
+    "main.js": "/Buzzle_Abhishek_Kumar/static/js/main.05a78bf0.js",
+    "static/js/787.c393a66b.chunk.js": "/Buzzle_Abhishek_Kumar/static/js/787.c393a66b.chunk.js",
+    "index.html": "/Buzzle_Abhishek_Kumar/index.html",
+    "main.14582f22.css.map": "/Buzzle_Abhishek_Kumar/static/css/main.14582f22.css.map",
+    "main.05a78bf0.js.map": "/Buzzle_Abhishek_Kumar/static/js/main.05a78bf0.js.map",
+    "787.c393a66b.chunk.js.map": "/Buzzle_Abhishek_Kumar/static/js/787.c393a66b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14582f22.css",
+    "static/js/main.05a78bf0.js"
+  ]
+}
